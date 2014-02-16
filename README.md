@@ -1,4 +1,5 @@
-= History of Old Ottawa East =
+History of Old Ottawa East
+==========================
 
 The documents in this repository were originally part of a CD-ROM that was distributed by the OECA. They were later converted for use on the OECA website at http://history.ottawaeast.ca.
 
